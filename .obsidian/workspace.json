@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ресурсы/Заметки/Дата.md",
+                "file": "Проект/Игра1/main.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Дата"
+              "title": "main"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ресурсы/Заметки/Дата.md",
+                "file": "Проект/Игра1/main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Дата"
+              "title": "Обратные ссылки для main"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ресурсы/Заметки/Дата.md",
+                "file": "Проект/Игра1/main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Дата"
+              "title": "Исходящие ссылки из main"
             }
           },
           {
@@ -151,21 +151,6 @@
             }
           },
           {
-            "id": "b60c22c1c5aa38e7",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Ресурсы/Заметки/Дата.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Структура Дата"
-            }
-          },
-          {
             "id": "e67f8f9dc42ef634",
             "type": "leaf",
             "state": {
@@ -176,11 +161,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 342
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,14 +181,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e67f8f9dc42ef634",
+  "active": "60930b6bf8ebb14b",
   "lastOpenFiles": [
     "Ресурсы/Заметки/Godot.md",
     "Ресурсы/Заметки/Cвязь.md",
     "Ресурсы/Заметки/Теги.md",
     "Ресурсы/Заметки/Конфликт.md",
-    "Ресурсы/Заметки/Движок.md",
     "Ресурсы/Заметки/Дата.md",
+    "Ресурсы/Заметки/Движок.md",
     "Ресурсы/Дневник/03.03.2026.md",
     "2026-03-03.md",
     "Ресурсы/Template/СоздалИзменилУдалил.md",
