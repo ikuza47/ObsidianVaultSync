@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#описание  ",
+      "color": {
+        "a": 1,
+        "rgb": 7380946
+      }
+    },
+    {
+      "query": "tag:#идея  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#дневник  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.06979166666667,
+  "lineSizeMultiplier": 0.840104166666667,
+  "collapse-forces": false,
+  "centerStrength": 0.4375,
+  "repelStrength": 6.5625,
+  "linkStrength": 1,
+  "linkDistance": 128,
+  "scale": 1.0534979423868283,
+  "close": false
+}

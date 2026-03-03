@@ -1,0 +1,12 @@
+# Obsidian
+.obsidian/plugins/
+.obsidian/themes/
+.obsidian/.obsidianignore
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/

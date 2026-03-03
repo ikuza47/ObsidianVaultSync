@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "881b76d5bc5e2e13",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa78159102dfbd3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60930b6bf8ebb14b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ресурсы/Заметки/Дата.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Дата"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc0c3f85466a0a78",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6e88b14605fab20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "944b3fdfa31574e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "01f7b8b9bf36bfb6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "f1118f30632286e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "237ce7d5e309615f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f921d7c55dbf0b67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7068f60d769e92cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ресурсы/Заметки/Дата.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Дата"
+            }
+          },
+          {
+            "id": "c73822b18b41563f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ресурсы/Заметки/Дата.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Дата"
+            }
+          },
+          {
+            "id": "b213c3d695988c2f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "099a1d183b69f12c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "b60c22c1c5aa38e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ресурсы/Заметки/Дата.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Дата"
+            }
+          },
+          {
+            "id": "e67f8f9dc42ef634",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "e67f8f9dc42ef634",
+  "lastOpenFiles": [
+    "Ресурсы/Заметки/Godot.md",
+    "Ресурсы/Заметки/Cвязь.md",
+    "Ресурсы/Заметки/Теги.md",
+    "Ресурсы/Заметки/Конфликт.md",
+    "Ресурсы/Заметки/Движок.md",
+    "Ресурсы/Заметки/Дата.md",
+    "Ресурсы/Дневник/03.03.2026.md",
+    "2026-03-03.md",
+    "Ресурсы/Template/СоздалИзменилУдалил.md",
+    "Ресурсы/Template/Тэг и Дата.md",
+    "Проект/Игра1/main.md",
+    "Ресурсы/Идеи/Лут-шут.md",
+    "Ресурсы/Идеи/Агрессивная Игра.md",
+    "Ресурсы/Идеи/Спокойная Игра.md",
+    "Проект/Игра1",
+    "2003-03-20.md",
+    "Без названия 2.base",
+    "Без названия 1.base",
+    "Без названия.base",
+    "Ресурсы/Дневник",
+    "Untitled.md",
+    "Ресурсы/Template",
+    "Ресурсы/Заметки",
+    "Ресурсы/Материалы",
+    "Ресурсы/Идеи",
+    "Архив",
+    "Добро пожаловать.md"
+  ]
+}
