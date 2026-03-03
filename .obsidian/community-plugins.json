@@ -7,5 +7,7 @@
   "nldates-obsidian",
   "highlightr-plugin",
   "page-properties",
-  "callout-manager"
+  "callout-manager",
+  "file-tree-generator",
+  "ascii-tree-generator"
 ]
