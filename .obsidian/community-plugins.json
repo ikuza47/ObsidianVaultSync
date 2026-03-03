@@ -6,5 +6,6 @@
   "templater-obsidian",
   "nldates-obsidian",
   "highlightr-plugin",
-  "page-properties"
+  "page-properties",
+  "callout-manager"
 ]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проект/Игра1/main.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "main"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Проект/Игра1/main.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для main"
+              "title": "Обратные ссылки для README"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Проект/Игра1/main.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из main"
+              "title": "Исходящие ссылки из README"
             }
           },
           {
@@ -183,6 +183,9 @@
   },
   "active": "60930b6bf8ebb14b",
   "lastOpenFiles": [
+    "Заметки.md",
+    "README.md",
+    "Проект/Игра1/main.md",
     "Ресурсы/Заметки/Godot.md",
     "Ресурсы/Заметки/Cвязь.md",
     "Ресурсы/Заметки/Теги.md",
@@ -193,7 +196,6 @@
     "2026-03-03.md",
     "Ресурсы/Template/СоздалИзменилУдалил.md",
     "Ресурсы/Template/Тэг и Дата.md",
-    "Проект/Игра1/main.md",
     "Ресурсы/Идеи/Лут-шут.md",
     "Ресурсы/Идеи/Агрессивная Игра.md",
     "Ресурсы/Идеи/Спокойная Игра.md",
