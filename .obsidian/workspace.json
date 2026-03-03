@@ -169,9 +169,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Создать новый холст": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
-      "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
@@ -179,15 +179,28 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false,
-      "callout-manager:Insert Callout": false
+      "callout-manager:Insert Callout": false,
+      "file-tree-generator:Generate file tree": false
     }
   },
-  "active": "60930b6bf8ebb14b",
+  "active": "944b3fdfa31574e3",
   "lastOpenFiles": [
+    "Ресурсы/Материалы/Материалы.md",
+    "vault.md",
+    "Ресурсы/Материалы/WAYPOINT.md",
+    "README.md",
+    "Без названия 1.md",
+    "Проект/Игра/_Index_of_Игра.md",
+    "_Index_of_vault.md",
+    "Ресурсы/_Index_of_Ресурсы.md",
+    "Ресурсы/Template/_Index_of_Template.md",
+    "Проект/_Index_of_Проект.md",
+    "Ресурсы/Идеи/_Index_of_Идеи.md",
+    "Ресурсы/Заметки/_Index_of_Заметки.md",
+    "Ресурсы/Дневник/_Index_of_Дневник.md",
     "Ресурсы/Template/СоздалИзменилУдалил.md",
     "Проект/Игра/main.md",
     "Проект/Игра/main.canvas",
-    "README.md",
     "Ресурсы/Идеи/Спокойная Игра.md",
     "Ресурсы/Идеи/Лут-шут.md",
     "Ресурсы/Идеи/Агрессивная Игра.md",
@@ -199,20 +212,15 @@
     "Ресурсы/Заметки/Конфликт.md",
     "Ресурсы/Заметки/Дата.md",
     "Ресурсы/Заметки/Движок.md",
-    "Ресурсы/Дневник/03.03.2026.md",
-    "2026-03-03.md",
     "Проект/Игра",
-    "2003-03-20.md",
     "Без названия 2.base",
     "Без названия 1.base",
     "Без названия.base",
     "Ресурсы/Дневник",
-    "Untitled.md",
     "Ресурсы/Template",
     "Ресурсы/Заметки",
     "Ресурсы/Материалы",
     "Ресурсы/Идеи",
-    "Архив",
-    "Добро пожаловать.md"
+    "Архив"
   ]
 }

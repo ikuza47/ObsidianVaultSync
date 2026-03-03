@@ -8,6 +8,7 @@
   "highlightr-plugin",
   "page-properties",
   "callout-manager",
-  "file-tree-generator",
-  "ascii-tree-generator"
+  "ascii-tree-generator",
+  "waypoint",
+  "folder-overview"
 ]
