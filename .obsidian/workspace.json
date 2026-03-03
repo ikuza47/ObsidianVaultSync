@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Проект/ObsidianAutoFolderASCII/main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для README"
+              "title": "Обратные ссылки для main"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Проект/ObsidianAutoFolderASCII/main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из README"
+              "title": "Исходящие ссылки из main"
             }
           },
           {
@@ -159,6 +159,21 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "1da443436048cd1b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура README"
+            }
           }
         ],
         "currentTab": 4
@@ -179,15 +194,20 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false,
-      "callout-manager:Insert Callout": false,
-      "file-tree-generator:Generate file tree": false
+      "callout-manager:Insert Callout": false
     }
   },
   "active": "60930b6bf8ebb14b",
   "lastOpenFiles": [
+    "Ресурсы/Template/Тэг и Дата.md",
+    "Ресурсы/Template/СоздалИзменилУдалил.md",
+    "README.md",
+    "Проект/Игра/main.canvas",
+    "Проект/Игра/main.md",
+    "Проект/ObsidianAutoFolderASCII/main.md",
+    "Проект/ObsidianAutoFolderASCII",
     "Ресурсы/Материалы/Материалы.md",
     "Ресурсы/Заметки/Заметки.md",
-    "README.md",
     "Ресурсы/Заметки/Конфликт.md",
     "Ресурсы/Заметки/Дата.md",
     "Ресурсы/Заметки/Движок.md",
@@ -207,11 +227,6 @@
     "Ресурсы/_Index_of_Ресурсы.md",
     "Ресурсы/Template/_Index_of_Template.md",
     "Проект/_Index_of_Проект.md",
-    "Ресурсы/Идеи/_Index_of_Идеи.md",
-    "Ресурсы/Заметки/_Index_of_Заметки.md",
-    "Ресурсы/Дневник/_Index_of_Дневник.md",
-    "Ресурсы/Template/СоздалИзменилУдалил.md",
-    "Проект/Игра/main.canvas",
     "Проект/Игра",
     "Без названия 2.base",
     "Без названия 1.base",
@@ -220,7 +235,6 @@
     "Ресурсы/Template",
     "Ресурсы/Заметки",
     "Ресурсы/Материалы",
-    "Ресурсы/Идеи",
-    "Архив"
+    "Ресурсы/Идеи"
   ]
 }
