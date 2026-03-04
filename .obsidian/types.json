@@ -5,6 +5,7 @@
     "tags": "tags",
     "дата": "text",
     "теги": "multitext",
-    "Параметры": "multitext"
+    "Параметры": "multitext",
+    "related": "multitext"
   }
 }

@@ -1,3 +1,5 @@
 {
-  "cssTheme": "Maple"
+  "cssTheme": "Maple",
+  "interfaceFontFamily": "Cascadia Code",
+  "accentColor": ""
 }

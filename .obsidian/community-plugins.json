@@ -6,9 +6,8 @@
   "templater-obsidian",
   "nldates-obsidian",
   "highlightr-plugin",
-  "page-properties",
   "callout-manager",
   "ascii-tree-generator",
-  "waypoint",
-  "folder-overview"
+  "folder-overview",
+  "dataview"
 ]
