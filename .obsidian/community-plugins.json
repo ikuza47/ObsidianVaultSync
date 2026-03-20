@@ -9,5 +9,8 @@
   "callout-manager",
   "ascii-tree-generator",
   "folder-overview",
-  "dataview"
+  "dataview",
+  "webpage-html-export",
+  "mermaid-tools",
+  "flowcharts"
 ]

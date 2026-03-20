@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "RealLife/ВУЗ/ММЛБ1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "ММЛБ1"
             }
           }
         ]
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ресурсы/Материалы/Сайты.md",
+                "file": "RealLife/ВУЗ/ММЛБ1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Сайты"
+              "title": "Структура ММЛБ1"
             }
           }
         ],
@@ -184,6 +184,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "mermaid-tools:Open Mermaid Toolbar": false,
       "canvas:Создать новый холст": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
@@ -194,49 +195,51 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false,
-      "callout-manager:Insert Callout": false
+      "callout-manager:Insert Callout": false,
+      "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "aead14cf18b705b8",
+  "active": "e67f8f9dc42ef634",
   "lastOpenFiles": [
-    "Ресурсы/Дневник/04.03.2026.md",
-    "README.md",
-    "READMEru.md",
-    "Без названия.base",
-    "Без названия.md",
-    "Ресурсы/Дневник/03.03.2026.md",
-    "Проект/Игра/Архив/Сюжет.md",
-    "Проект/Игра/Аудио.md",
-    "Проект/Игра/Ближний бой.md",
-    "Проект/Игра/Визуал.md",
-    "Проект/Игра/Враги.md",
-    "Проект/Игра/Главный.md",
-    "Проект/Игра/Жанр.md",
-    "Проект/Игра/Карточки.md",
-    "Проект/Игра/Локации.md",
-    "Проект/Игра/Магазины.md",
-    "Проект/Игра/Оружие.md",
-    "Проект/Игра/Перемещение.md",
-    "Проект/Игра/Разработка.md",
-    "Проект/Игра/Terminal UI.md",
     "Ресурсы/Материалы/Сайты.md",
-    "Ресурсы/Материалы/Godot Ссылки.md",
-    "Ресурсы/Заметки/TUI.md",
-    "Ресурсы/Заметки/GUI.md",
-    "Ресурсы/Заметки/Godot.md",
+    "RealLife/ВУЗ/ММЛБ1.md",
+    "RealLife/ВУЗ",
+    "RealLife/Новая папка",
+    "RealLife",
+    "Новая папка",
+    "Ресурсы/Дневник/04.03.2026.md",
+    "Ресурсы/Дневник/03.03.2026.md",
+    "Архив/ObsidianAutoFolderASCII/main.md",
+    "README.md",
+    "vault.html",
+    "Ресурсы/Template/СоздалИзменилУдалил.md",
+    "Ресурсы/Template/Тэг и Дата.md",
+    "Ресурсы/Заметки/Баланс игры.md",
+    "Ресурсы/Заметки/Боевая система.md",
+    "Ресурсы/Заметки/Геймдизайн.md",
+    "Ресурсы/Заметки/Звуковой дизайн.md",
+    "Ресурсы/Заметки/ИИ врагов.md",
+    "Ресурсы/Заметки/Карточки навыков (механика).md",
+    "Ресурсы/Заметки/Левел-дизайн.md",
+    "Ресурсы/Заметки/Пиксель-арт.md",
+    "Ресурсы/Заметки/Процедурная генерация.md",
+    "Ресурсы/Заметки/Рогалик.md",
+    "Ресурсы/Заметки/Стелс-механики.md",
     "Ресурсы/Заметки/ASCII-графика.md",
+    "Ресурсы/Заметки/Godot.md",
+    "Ресурсы/Заметки/GUI.md",
+    "Ресурсы/Заметки/TUI.md",
+    "Ресурсы/Материалы/Godot Ссылки.md",
+    "Проект/Игра/Terminal UI.md",
+    "Проект/Игра/Разработка.md",
+    "html",
+    "Без названия.base",
     "Ресурсы/Идеи",
     "Проект/Terminal Ui Nodes",
     "Без названия.canvas",
     "Без названия 2.canvas",
     "Без названия 1.canvas",
     "Проект/Игра/main.canvas",
-    "Проект/Игра/Архив",
-    "Real Life",
-    "Архив/ObsidianAutoFolderASCII",
-    "Проект/Игра",
-    "Без названия 2.base",
-    "Без названия 1.base",
-    "Ресурсы/Дневник"
+    "Проект/Игра/Архив"
   ]
 }
